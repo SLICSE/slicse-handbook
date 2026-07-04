@@ -1,12 +1,10 @@
 # Nutika õpitaristu käsiraamat informaatikaõpetajale
 
-# Nutika õpitaristu teadmuskeskus informaatikaõpetajale
+Tere tulemast Nutika õpitaristu käsiraamatusse!
 
-Tere tulemast Nutika õpitaristu teadmuskeskusesse!
+See käsiraamat koondab informaatikaõpetajatele, digiloovtöö juhendajatele ja haridustehnoloogidele mõeldud õppematerjalid, juhendid, tööriistad ja näited, mis toetavad projektipõhist, koostöist ja agiilset informaatikaõpet.
 
-See teadmuskeskus koondab informaatikaõpetajatele, digiloovtöö juhendajatele ja haridustehnoloogidele mõeldud õppematerjalid, juhendid, tööriistad ja näited, mis toetavad projektipõhist, koostöist ja agiilset informaatikaõpet.
-
-Teadmuskeskuse aluseks on doktoritöö „A Reference Framework for Smart Learning Infrastructure in Computer Science Education“ ning selle eesmärk on toetada digiloovtööde, projektõppe ja GitHubi-põhiste õpikeskkondade rakendamist Eesti koolides.
+Käsiraamatu aluseks on doktoritöö „A Reference Framework for Smart Learning Infrastructure in Computer Science Education“ ning selle eesmärk on toetada digiloovtööde, projektõppe ja GitHubi-põhiste õpikeskkondade rakendamist Eesti koolides.
 
 ## Kellele?
 
@@ -17,7 +15,7 @@ Teadmuskeskuse aluseks on doktoritöö „A Reference Framework for Smart Learni
 - koolijuhtidele
 - uurijatele
 
-## Teadmuskeskuse ülesehitus
+## Käsiraamatu ülesehitus
 
 ### 1. Nutika õpitaristu raamistik
 - Visioon
