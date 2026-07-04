@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+
+title: "Nutika õpitaristu käsiraamat informaatikaõpetajale / Smart Learning Infrastructure Handbook for Computer Science Teachers"
+
+authors:
+  - family-names: Lust
+    given-names: Maia
+
+repository-code: "https://github.com/SLICSE/slicse-handbook"
+license: CC-BY-SA-4.0
