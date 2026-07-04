@@ -1,1 +1,69 @@
+Tere tulemast SLICSE käsiraamatu kogukonda!
 
+Täname huvi eest panustada Nutika õpitaristu käsiraamatu arendamisse. Käsiraamat on avatud teadmuskeskus, mille eesmärk on toetada digiloovtööde, 
+projektipõhise informaatikaõppe ning nutika õpitaristu rakendamist Eesti koolides. Kuidas saab panustada?
+
+Ootame järgmisi panuseid:
+õppematerjalid;
+töölehed;
+kontrollnimekirjad;
+hindamisrubriigid;
+näidisprojektid;
+õpetajate kogemuslood;
+parandused olemasolevasse sisusse;
+viited teadusuuringutele;
+tõlked ja terminoloogilised täpsustused.
+
+Enne uue sisu lisamist
+Palun kontrolli, kas sarnane materjal on juba olemas:
+
+Wikis;
+kaustas docs/;
+olemasolevate GitHub Issues hulgas.
+
+Soovitatav struktuur
+
+Näidisprojektid lisada kausta: docs/näidisprojektid/ Projektikirjeldus võiks sisaldada:
+projekti nime;
+sihtklassi;
+kestust;
+eesmärke;
+kasutatud tehnoloogiaid;
+hindamisviise;
+õpitulemusi.
+
+Rollikaardid lisada kausta: docs/rollikaardid/ Iga rollikaart võiks sisaldada:
+rolli kirjeldust;
+peamisi ülesandeid;
+vastutust;
+vajalikke oskusi;
+hindamiskriteeriume.
+
+Rubriigid lisada kausta: docs/rubriigid/
+Rubriik peaks olema taaskasutatav ning seotud konkreetse õpieesmärgiga.
+
+Sisuloome põhimõtted
+Sisu loomisel lähtume järgmistest põhimõtetest:
+eesti keel;
+selge ja arusaadav sõnastus;
+praktiline rakendatavus koolis;
+avatud õppematerjalid;
+viitamine allikatele;
+kooskõla informaatika õppekavaga.
+
+Viitamine
+Kui panus põhineb teaduskirjandusel või muudel allikatel, palume lisada korrektsed viited.
+Kuidas muudatusettepanek teha?
+
+Ava GitHub Issue.
+Kirjelda ettepanekut.
+Vajadusel lisa näidismaterjal.
+Repo haldaja vaatab ettepaneku üle.
+Heakskiidetud muudatus lisatakse käsiraamatusse.
+
+Käitumisjuhend
+Kõik panustajad peavad järgima faili: CODE_OF_CONDUCT.md toodud põhimõtteid.
+
+Kontakt
+Maia Lust
+SLICSE – Smart Learning Infrastructure in Computer Science Education
