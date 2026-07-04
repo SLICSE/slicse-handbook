@@ -5,6 +5,7 @@ SLICSE – Smart Learning Infrastructure in Computer Science Education
 Tallinna Ülikool
 
 # Nutika õpitaristu käsiraamat informaatikaõpetajale
+# Smart Learning Infrastructure Handbook for Computer Science Teachers
 
 Nutika õpitaristu käsiraamat koondab teoreetilised alused, õppekavaarenduse, õppematerjalid, metoodikad, hindamisvahendid ning tehnoloogilised lahendused, mis toetavad digiloovtööde ja projektipõhise informaatikaõppe rakendamist Eesti koolides.
 
