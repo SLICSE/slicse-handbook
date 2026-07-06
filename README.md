@@ -9,7 +9,7 @@ Nutika õpitaristu käsiraamat koondab teoreetilised alused, õppekavaarenduse, 
 
 Käsiraamat põhineb doktoritööl „A Reference Framework for Smart Learning Infrastructure in Computer Science Education“ ning kirjeldab nutika õpitaristu põhikomponente, nende seoseid ja rakendamist digiloovtöö kontekstis.
 
-Digiloovtööd käsitletakse käsiraamatus nutika õpitaristu keskse rakendusjuhtumina, mille kaudu toetatakse koostööd, probleemilahendust, disainmõtlemist, agiilseid tööviise ja varast inseneeriaharidust.
+Digiloovtööd käsitletakse käsiraamatus nutika õpitaristu keskse rakendamisena, mille kaudu toetatakse koostööd, probleemilahendust, disainmõtlemist, agiilseid tööviise ja varast inseneeriaharidust.
 
 
 ### Viitamine:
