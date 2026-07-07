@@ -1,4 +1,23 @@
-# Geomeetriavalemite rakendus
+---
+title: "Geomeetriavalemite rakendus"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-geomeetria-valemite-rakendus/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "kasutajakeskne disain", "persoonad", "prototüüpimine", "testimine", "Kanban", "sprint"]
+keywords: ["geomeetria", "valemid", "rakendus", "App Inventor", "matemaatika", "õppija toetamine"]
+related:
+  - "../02-opidisain/kasutajakeskne-disain.md"
+  - "../02-opidisain/persoonad-digiloovtoos.md"
+  - "../03-digiloovtoo-juhendamine/probleemi-ja-kasutajavajaduse-sonastamine.md"
+  - "../07-hindamine/protsessirubriik.md"
+  - "../10-toolehed/prototuubi-planeerimise-tooleht.md"
+---
+
+# Geomeetriavalemite rakendus# Geomeetriavalemite rakendus
 
 ## Lühikirjeldus
 
