@@ -1,3 +1,23 @@
+---
+title: "Küberkaitse lipuvõistlus"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-ctf-lipuvoistlus/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "mänguline õpe", "kasutajakeskne disain", "stsenaariumid", "Kanban", "sprint"]
+keywords: ["küberturvalisus", "CTF", "lipuvõistlus", "mänguline õpe", "stsenaarium", "tagasiside"]
+related:
+  - "../02-opidisain/agile-manifesto-hariduskontekstis.md"
+  - "../02-opidisain/stsenaariumid-digiloovtoos.md"
+  - "../03-digiloovtoo-juhendamine/persoonade-ja-stsenaariumide-juhendamine.md"
+  - "../07-hindamine/tagasiside-kusimused.md"
+  - "../10-toolehed/stsenaariumi-kirjutamise-tooleht.md"
+---
+
+# Küberkaitse lipuvõistlus
 # Küberkaitse lipuvõistlus
 
 ## Lühikirjeldus
