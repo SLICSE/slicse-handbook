@@ -1,3 +1,23 @@
+---
+title: "Koolimaja virtuaaltuur"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-koolimaja-virtuaaltuur/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "kasutajakeskne disain", "stsenaariumid", "prototüüpimine", "Kanban", "sprint"]
+keywords: ["virtuaaltuur", "koolimaja", "360 kaamera", "multimeedia", "kasutajavajadus", "digisõbralik kool"]
+related:
+  - "../02-opidisain/stsenaariumid-digiloovtoos.md"
+  - "../03-digiloovtoo-juhendamine/prototuupimine-ja-testimine.md"
+  - "../05-opetaja-orkestreerimine/dokumentatsiooni-jalgimine.md"
+  - "../07-hindamine/oppeprotsessi-toendusmaterjalid.md"
+  - "../10-toolehed/stsenaariumi-kirjutamise-tooleht.md"
+---
+
+# Koolimaja virtuaaltuur
 # Koolimaja virtuaaltuur
 
 ## Lühikirjeldus
