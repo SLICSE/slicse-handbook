@@ -23,14 +23,27 @@ Iga näidisprojekti puhul on oluline mõelda:
 
 ## Selles jaotises olevad projektid
 
-* [`nutikodu-turvaline-lahendus.md`](nutikodu-turvaline-lahendus.md) — targa maja või korteri turvalise lahenduse kavandamine.
-* [`kuberkaitse-lipuvoistlus.md`](kuberkaitse-lipuvoistlus.md) — küberkaitse ja CTF-lipuvõistluse projekt.
-* [`elav-raamatukogu.md`](elav-raamatukogu.md) — elava raamatukogu idee sidumine digitaalse ja interaktiivse lahendusega.
-* [`koolimaja-virtuaaltuur.md`](koolimaja-virtuaaltuur.md) — koolimaja virtuaaltuuri kavandamine ja loomine.
-* [`kooli-interaktiivne-aastaraamat.md`](kooli-interaktiivne-aastaraamat.md) — kooli aastaraamatu interaktiivne digitaalne lahendus.
-* [`taimekasvatuse-automatiseerimine.md`](taimekasvatuse-automatiseerimine.md) — taimekasvatuse automatiseerimise lahendus.
-* [`geomeetriavalemite-rakendus.md`](geomeetriavalemite-rakendus.md) — geomeetriavalemite õppimist toetava rakenduse kavandamine.
-* [`oppematerjali-loomine-tehisintellekti-abil.md`](oppematerjali-loomine-tehisintellekti-abil.md) — õppematerjali loomine tehisintellekti abil.
+## Selles jaotises olevad projektid
+
+### Digiloovtöö õppematerjalidest kohandatud projektid
+
+- [`nutikodu-turvaline-lahendus.md`](nutikodu-turvaline-lahendus.md) — targa maja või korteri turvalise lahenduse kavandamine.
+- [`kuberkaitse-lipuvoistlus.md`](kuberkaitse-lipuvoistlus.md) — küberkaitse ja CTF-lipuvõistluse projekt.
+- [`elav-raamatukogu.md`](elav-raamatukogu.md) — elava raamatukogu idee sidumine digitaalse ja interaktiivse lahendusega.
+- [`koolimaja-virtuaaltuur.md`](koolimaja-virtuaaltuur.md) — koolimaja virtuaaltuuri kavandamine ja loomine.
+- [`kooli-interaktiivne-aastaraamat.md`](kooli-interaktiivne-aastaraamat.md) — kooli aastaraamatu interaktiivne digitaalne lahendus.
+- [`taimekasvatuse-automatiseerimine.md`](taimekasvatuse-automatiseerimine.md) — taimekasvatuse automatiseerimise lahendus.
+- [`geomeetriavalemite-rakendus.md`](geomeetriavalemite-rakendus.md) — geomeetriavalemite õppimist toetava rakenduse kavandamine.
+- [`oppematerjali-loomine-tehisintellekti-abil.md`](oppematerjali-loomine-tehisintellekti-abil.md) — õppematerjali loomine tehisintellekti abil.
+
+### Õpilasprojektidest kohandatud projektikaardid
+
+- [`proto-pogenemistoa-mang.md`](proto-pogenemistoa-mang.md) — PROTO avastustehase jaoks põgenemistoa mängu prototüübi kavandamine.
+- [`robot-kirjakandja.md`](robot-kirjakandja.md) — kooliruumis õppematerjalide liigutamist toetava robot-kirjakandja prototüübi loomine.
+- [`clil-h5p-oppematerjal-5-klassile.md`](clil-h5p-oppematerjal-5-klassile.md) — 5. klassi loodusõpetuse ja eesti keele lõimitud õpet toetava interaktiivse õppematerjali loomine.
+- [`kvk-kiituste-ja-markuste-veebileht.md`](kvk-kiituste-ja-markuste-veebileht.md) — õpetajate kiituste ja märkuste kasutamist lihtsustava veebilehe kavandamine.
+- [`opilasi-toetava-rakenduse-prototuup.md`](opilasi-toetava-rakenduse-prototuup.md) — õpilasi toetava rakenduse Figma prototüübi loomine.
+- [`ouesoppe-mangud-actionbound.md`](ouesoppe-mangud-actionbound.md) — Actionboundi keskkonnas õuesõppe mängude loomine 2.–4. klassidele.
 
 ## Kuidas näidisprojekte kasutada?
 
