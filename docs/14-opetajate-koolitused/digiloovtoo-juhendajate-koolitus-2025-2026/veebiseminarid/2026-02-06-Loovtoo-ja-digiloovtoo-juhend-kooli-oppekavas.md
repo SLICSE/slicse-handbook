@@ -4,17 +4,22 @@ type: "koolituse-veebinar"
 course: "Digiloovtöö juhendajate koolitus 2025/2026"
 date: "2026-02-06"
 source: "veebinari transkriptsioon"
+course_site_url: "https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/avaleht"
+course_folder_url: "https://drive.google.com/drive/folders/1pDzJ6Qi5R4Xbk7nLHbMIj1ADOInTij33LNZBIaOeOyUTaEqH2EaCVynDcIHQVcr07timewv9?usp=sharing"
 status: "transkriptsioonist koostatud ja anonümiseeritud kaart"
 language: "et"
 audience: ["digiloovtöö juhendaja", "informaatikaõpetaja", "haridustehnoloog", "õppejuht", "koolijuht"]
 keywords: ["digiloovtöö", "loovtöö", "kooli õppekava", "juhend", "protsessihindamine", "sprint", "prototüüp", "tehisintellekt"]
 related:
   - "../../03-digiloovtoo-juhendamine/README.md"
+  - "../../03-digiloovtoo-juhendamine/sprintide-planeerimine.md"
+  - "../../03-digiloovtoo-juhendamine/prototuupimine-ja-testimine.md"
   - "../../05-opetaja-orkestreerimine/README.md"
   - "../../07-hindamine/protsessihindamine.md"
   - "../../07-hindamine/refleksioon-3w-mudel.md"
-  - "../../09-mallid/README.md"
-  - "../../10-toolehed/README.md"
+  - "../../09-mallid/projektiplaani-mall.md"
+  - "../../09-mallid/pitchi-mall.md"
+  - "../../10-toolehed/refleksiooni-3w-tooleht.md"
 ---
 
 # Veebinar: Loovtöö ja digiloovtöö juhend kooli õppekavas
@@ -27,15 +32,21 @@ Veebinar keskendus sellele, kuidas kool saab kirjeldada loovtöö ja digiloovtö
 
 Arutelu keskmes olid riikliku õppekava vähesed ettekirjutused, loovtöö eri vormid, digiloovtöö eripära, vormistusnõuete ümbermõtestamine, tehisintellekti mõju referatiivsetele töödele, prototüüpimise ja sprintide kasutamine ning protsessihindamise tähtsus.
 
+## Kursuse veebileht ja materjalide kaust
+
+- [Digiloovtöö juhendajate koolituse veebileht](https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/avaleht)
+- [Digiloovtöö juhendajate koolituse Google Drive’i kaust](https://drive.google.com/drive/folders/1pDzJ6Qi5R4Xbk7nLHbMIj1ADOInTij33LNZBIaOeOyUTaEqH2EaCVynDcIHQVcr07timewv9?usp=sharing)
+
 ## Salvestus
 
-[Lisa veebinari salvestuse link](LISA-LINK-SIIA)
+[Vaata veebinari salvestust](LISA-SALVESTUSE-LINK-SIIA)
 
 ## Slaidid ja materjalid
 
-- [Lisa slaidide link](LISA-LINK-SIIA)
-- [Lisa ühisdokumendi / juhendi mustandi link](LISA-LINK-SIIA)
-- [Lisa kursuse Google Drive’i kaust](LISA-LINK-SIIA)
+- [Veebinari slaidid](LISA-SLAIDIDE-LINK-SIIA)
+- [Ühisdokument / juhendi mustand](LISA-JUHENDI-MUSTANDI-LINK-SIIA)
+- [Kursuse Google Drive’i kaust](https://drive.google.com/drive/folders/1pDzJ6Qi5R4Xbk7nLHbMIj1ADOInTij33LNZBIaOeOyUTaEqH2EaCVynDcIHQVcr07timewv9?usp=sharing)
+- [Kursuse veebileht](https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/avaleht)
 
 ## Veebinari eesmärgid
 
@@ -231,15 +242,15 @@ See veebinar toetab SLICSE käsiraamatus eelkõige järgmisi teemasid:
 
 ## Seotud SLICSE materjalid
 
-- `03-digiloovtoo-juhendamine/README.md`
-- `03-digiloovtoo-juhendamine/sprintide-planeerimine.md`
-- `03-digiloovtoo-juhendamine/prototuupimine-ja-testimine.md`
-- `05-opetaja-orkestreerimine/README.md`
-- `07-hindamine/protsessihindamine.md`
-- `07-hindamine/refleksioon-3w-mudel.md`
-- `09-mallid/projektiplaani-mall.md`
-- `09-mallid/pitchi-mall.md`
-- `10-toolehed/refleksiooni-3w-tooleht.md`
+- [Digiloovtöö juhendamine](../../03-digiloovtoo-juhendamine/README.md)
+- [Sprintide planeerimine](../../03-digiloovtoo-juhendamine/sprintide-planeerimine.md)
+- [Prototüüpimine ja testimine](../../03-digiloovtoo-juhendamine/prototuupimine-ja-testimine.md)
+- [Õpetaja orkestreerimine](../../05-opetaja-orkestreerimine/README.md)
+- [Protsessihindamine](../../07-hindamine/protsessihindamine.md)
+- [Refleksioon 3W mudel](../../07-hindamine/refleksioon-3w-mudel.md)
+- [Projektiplaani mall](../../09-mallid/projektiplaani-mall.md)
+- [Pitch’i mall](../../09-mallid/pitchi-mall.md)
+- [3W refleksiooni tööleht](../../10-toolehed/refleksiooni-3w-tooleht.md)
 
 ## Märkused
 
