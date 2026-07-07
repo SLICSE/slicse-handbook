@@ -1,0 +1,66 @@
+---
+title: "Mõisted"
+type: "sonastik"
+source: "Google Sites"
+source_url: "https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/m%C3%B5isted"
+status: "kohandatud SLICSE käsiraamatu jaoks"
+language: "et"
+audience: ["digiloovtöö juhendaja", "informaatikaõpetaja", "õpilane"]
+keywords: ["digiloovtöö", "mõisted", "Kanban", "sprint", "backlog", "persoona", "prototüüp"]
+related:
+  - "../../01-nutika-opitaristu-raamistik/nutika-opitaristu-pohimoisted.md"
+  - "../../02-opidisain/README.md"
+  - "../../03-digiloovtoo-juhendamine/README.md"
+---
+
+# Mõisted
+
+See fail koondab digiloovtöö juhendajate koolituse veebilehel toodud põhimõisted SLICSE käsiraamatu jaoks korrastatud kujul.
+
+| Mõiste | Selgitus |
+|---|---|
+| **Digiloovtöö** | Loovtöö vorm, mis teostatakse digitaalsete vahendite abil ning mille tulemuseks on digitaalne lahendus, prototüüp või toode. Näiteks võib valmida mobiilirakendus, virtuaaltuur, nutiseade, AI-assistent või muu digitaalne lahendus. |
+| **Vormistusnõuded** | Kirjalike tööde struktuuri, kirjatüübi, suuruse, pealkirjade ja vormistuse reeglid. Digiloovtöö puhul võib olla vajalik traditsioonilistest paberipõhistest nõuetest kõrvale kalduda. |
+| **Wiki formaat** | Veebipõhine koostööformaat, kus mitmed kasutajad saavad sisu luua, muuta ja täiendada. Digiloovtöö puhul sobib Wiki tööprotsessi, dokumentatsiooni ja tulemuste esitamiseks. |
+| **Postri formaat** | Visuaalne esitlusvorm, kus projekti olulisem info esitatakse suurel plakatil. Postrit saab kasutada digiloovtöö tulemuste tutvustamiseks ja kaitsmiseks. |
+| **Klient** | Isik, sihtrühm või asutus väljaspool õpilasrühma, kellel on probleem või vajadus, millele õpilased otsivad digitaalset lahendust. |
+| **Empaatia** | Võime mõista ja arvestada kliendi probleeme, olukorda ja vajadusi, et kavandada sobiv lahendus. |
+| **Intervjueerimine** | Kliendiga suhtlemine, küsimuste esitamine ja vastuste analüüsimine, et mõista probleemi ning saada tagasisidet lahenduse või prototüübi kohta. |
+| **Tagasiside** | Kliendi, kasutaja või muu huvigrupi hinnang loodud lahendusele või prototüübile. Tagasisidet kasutatakse edasise arenduse ja parendamise suunamiseks. |
+| **Raport** | Kirjalik või visuaalne kokkuvõte digiloovtöö protsessist, tulemustest ja tagasisidest. Raport võib olla esitatud näiteks Wiki, postri või muu formaadina. |
+| **Esitlus ja kaitsmine** | Digiloovtöö tutvustamine komisjonile või publikule. Digiloovtöö puhul võib kaitsmine toimuda liftikõne, posterettekande, demo või muu digitaalse esitlusena. |
+| **Liftikõne ehk pitch** | Lühike ja veenev projekti tutvustus, mille eesmärk on selgitada projekti probleemi, kasutajat, lahendust ja väärtust. |
+| **Arendusmeetodid** | Projektide ja digilahenduste arendamise viisid, mis hõlmavad planeerimist, teostamist, testimist ja tagasiside kogumist. Digiloovtöös kasutatakse sageli agiilse arenduse põhimõtteid. |
+| **Kanban tahvel** | Visuaalne töövoo juhtimise vahend, kus ülesanded liiguvad läbi erinevate olekute, näiteks `Backlog`, `Töös`, `Tagasisides` ja `Valmis`. |
+| **Piletid** | Kanbani tahvlil olevad ülesanded või tööetapid. Iga pilet kirjeldab konkreetset tegevust, vastutajat ja edenemist. |
+| **Arendustsüklid** | Projekti jagamine lühemateks perioodideks, mille jooksul keskendutakse kindlatele eesmärkidele või ülesannetele. |
+| **Sprint** | Lühike ja kindla kestusega tööperiood, mille jooksul meeskond täidab kokkulepitud ülesandeid ning loob vahetulemuse. |
+| **Backlog** | Nimekiri ülesannetest, ideedest või tööetappidest, mis ootavad tegemist. |
+| **Kasutajalugu** | Kasutaja vaatenurgast kirjutatud lühike kirjeldus vajadusest või soovist. |
+| **Persoona** | Väljamõeldud, kuid kasutajauuringule tuginev tüüpilise kasutaja kirjeldus. Persoona aitab mõista sihtrühma vajadusi, eesmärke ja takistusi. |
+| **Stsenaarium** | Kirjeldus sellest, kuidas persoona kasutab loodavat lahendust reaalses olukorras. |
+| **Prototüüp** | Lihtsustatud mudel või varajane versioon lahendusest, mida kasutatakse idee testimiseks ja tagasiside kogumiseks. |
+| **Paberprototüüp** | Paberil või joonistuste abil loodud prototüüp. Sobib idee kiireks visualiseerimiseks ja arutamiseks. |
+| **Videoprototüüp** | Video, mis näitab, kuidas loodav lahendus võiks kasutusolukorras toimida. |
+| **Retrospektiiv** | Sprindi lõpus toimuv arutelu, kus analüüsitakse, mis läks hästi, mis vajab parandamist ja mida järgmisel korral teisiti teha. |
+| **Teamup, GitHub ja Taiga** | Projektijuhtimise ja koostööplatvormid, mida saab kasutada digiloovtöö protsessi haldamiseks, dokumenteerimiseks ja töövoo nähtavaks tegemiseks. |
+| **Pressbooks** | WordPressil põhinev e-raamatute loomise ja avaldamise platvorm, mida kasutatakse digiloovtöö õppematerjalide majutamiseks. |
+| **AI-assistent** | Tehisintellektil põhinev tööriist, mis aitab täita kindlaid ülesandeid, näiteks vastata küsimustele, koostada tekste või toetada programmeerimist. |
+| **Nutipeenar** | Automatiseeritud taimede kasvatamise süsteem, mis võib sisaldada niisutamist, valgustamist, andureid ja mikrokontrollereid. |
+| **Turvaline nutimaja** | Nutikodu turvalisuse lahenduse mudel või prototüüp. |
+| **Virtuaaltuur** | Digitaalne ringkäik reaalses või virtuaalses keskkonnas, näiteks koolimajas. |
+| **Avastusrada** | Mänguline õpperada, kus digitaalseid vahendeid kasutatakse asukohtade leidmiseks ja ülesannete lahendamiseks. |
+| **Homogeensed ja heterogeensed rühmad** | Homogeensed rühmad koosnevad sarnaste omaduste, oskuste või huvidega õppijatest. Heterogeensed rühmad koosnevad erinevate omaduste, oskuste või huvidega õppijatest. |
+| **Murelaat** | Üritus või tegevus, kus õpetajad, koolitöötajad või teised kogukonnaliikmed esitavad probleeme, millele õpilased saavad digiloovtöö käigus lahendusi pakkuda. |
+| **Mentor** | Kogenud spetsialist, kes saab õpilasrühma nõustada ja toetada, kuid ei pruugi olla igapäevane juhendaja. |
+| **Virtuaal- ja liitreaalsus** | Virtuaalreaalsus loob arvuti abil simuleeritud maailma. Liitreaalsus lisab reaalse maailma vaatele digitaalse kihi, mida saab kasutada näiteks nutitelefoni abil. |
+| **Asjade internet** | Süsteemid, kus seadmed, masinad või andurid on ühendatud internetti ning saavad andmeid koguda, edastada või kasutada. |
+| **Robootika ja mehhatroonika** | Robotite ja automaatsete seadmete loomine, programmeerimine ja kasutamine päris probleemide lahendamiseks. |
+| **Suur- ja avaandmete rakendamine** | Andmete kasutamine analüüsiks, prognoosimiseks või tegevuste automatiseerimiseks. |
+| **Nuti- ja veebirakendused** | Nutiseadmetele või veebilehitsejale loodavad rakendused, mis lahendavad kasutaja probleemi. |
+| **Tehisaru** | Tehisintellekti rakendamine erinevates ülesannetes, näiteks teksti lihtsustamisel, kasutajatoel või automatiseerimisel. |
+
+## Algallikas
+
+[Digiloovtöö juhendajate koolitus — mõisted](https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/m%C3%B5isted)
+
