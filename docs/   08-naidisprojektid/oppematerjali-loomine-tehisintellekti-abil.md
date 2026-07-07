@@ -1,3 +1,23 @@
+---
+title: "Õppematerjali loomine tehisintellekti abil"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-oppematerjali-loomine-tehisintellekti-abil/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "õpidisain", "kasutajakeskne disain", "tehisintellekt", "tagasiside", "Kanban", "sprint"]
+keywords: ["tehisintellekt", "õppematerjal", "õpitulemus", "õpidisain", "AI", "tagasiside", "sisu kontroll"]
+related:
+  - "../02-opidisain/addie-mudel-digiloovtoos.md"
+  - "../02-opidisain/opiteekonna-kavandamine.md"
+  - "../04-oppija-toetamine/kontseptuaalne-tugi.md"
+  - "../07-hindamine/kujundav-hindamine-ja-tagasiside.md"
+  - "../10-toolehed/kasutajavajaduse-kaardistamise-tooleht.md"
+---
+
+# Õppematerjali loomine tehisintellekti abil
 # Õppematerjali loomine tehisintellekti abil
 
 ## Lühikirjeldus
