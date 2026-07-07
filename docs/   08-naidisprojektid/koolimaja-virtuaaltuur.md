@@ -1,12 +1,3 @@
-koolimaja-virtuaaltuur.md
----
-title: "Koolimaja virtuaaltuur"
-type: "naidisprojekt"
-source: "Digiloovtöö õpik"
-status: "kohandatud SLICSE kaardiks"
-keywords: ["virtuaaltuur", "360 kaamera", "koolimaja", "digisõbralik kool", "ADDIE", "Kanban"]
----
-
 # Koolimaja virtuaaltuur
 
 ## Lühikirjeldus
