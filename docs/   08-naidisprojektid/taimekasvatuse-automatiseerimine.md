@@ -1,3 +1,23 @@
+---
+title: "Taimekasvatuse automatiseerimine"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-taimekasvatuse-automatiseerimine/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "disainiuuring", "kasutajakeskne disain", "prototüüpimine", "testimine", "Kanban", "sprint"]
+keywords: ["taimekasvatus", "automatiseerimine", "Micro:bit", "andurid", "IoT", "prototüüp", "testimine"]
+related:
+  - "../02-opidisain/disainiuuring-digiloovtoos.md"
+  - "../03-digiloovtoo-juhendamine/prototuupimine-ja-testimine.md"
+  - "../06-github-opikeskkonnana/github-projects-kui-kanban.md"
+  - "../07-hindamine/oppeprotsessi-toendusmaterjalid.md"
+  - "../10-toolehed/prototuubi-testimise-tooleht.md"
+---
+
+# Taimekasvatuse automatiseerimine
 # Taimekasvatuse automatiseerimine
 
 ## Lühikirjeldus
