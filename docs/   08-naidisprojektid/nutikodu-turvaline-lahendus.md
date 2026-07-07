@@ -1,3 +1,23 @@
+---
+title: "Nutikodu: targa maja või korteri turvaline lahendus"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-nutikodu/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "disainiuuring", "kasutajakeskne disain", "persoonad", "stsenaariumid", "Kanban", "sprint"]
+keywords: ["nutikodu", "IoT", "turvalisus", "WiFi", "kasutajavajadus", "prototüüp"]
+related:
+  - "../02-opidisain/addie-mudel-digiloovtoos.md"
+  - "../02-opidisain/kasutajakeskne-disain.md"
+  - "../03-digiloovtoo-juhendamine/backlogi-koostamine.md"
+  - "../06-github-opikeskkonnana/issues-kui-backlog.md"
+  - "../07-hindamine/protsessihindamine.md"
+---
+
+# Nutikodu: targa maja või korteri turvaline lahendus
 # Nutikodu: targa maja või korteri turvaline lahendus
 
 ## Lühikirjeldus
