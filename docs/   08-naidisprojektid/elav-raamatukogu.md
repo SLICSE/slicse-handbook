@@ -1,3 +1,22 @@
+---
+title: "Elav raamatukogu"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-elav-raamatukogu/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "kasutajakeskne disain", "persoonad", "stsenaariumid", "Kanban", "sprint"]
+keywords: ["elav raamatukogu", "QR-kood", "interaktiivne poster", "raamatukogu", "kasutajavajadus"]
+related:
+  - "../02-opidisain/kasutajakeskne-disain.md"
+  - "../02-opidisain/persoonad-digiloovtoos.md"
+  - "../03-digiloovtoo-juhendamine/persoonade-ja-stsenaariumide-juhendamine.md"
+  - "../07-hindamine/refleksioon-3w-mudel.md"
+---
+
+# Elav raamatukogu
 # Elav raamatukogu
 
 ## Lühikirjeldus
