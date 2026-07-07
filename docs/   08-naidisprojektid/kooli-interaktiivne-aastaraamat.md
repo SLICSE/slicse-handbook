@@ -1,3 +1,22 @@
+---
+title: "Kooli interaktiivne aastaraamat"
+type: "naidisprojekt"
+source: "Digiloovtöö õpik"
+source_url: "https://web.htk.tlu.ee/informaatika/digiloovtoo/chapter/projekt-kooli-interaktiivne-aastaraamat/"
+status: "kohandatud SLICSE kaardiks"
+language: "et"
+audience: ["informaatikaõpetaja", "digiloovtöö juhendaja"]
+school_stage: ["III kooliaste"]
+methodological_basis: ["ADDIE", "projektipõhine õpe", "kasutajakeskne disain", "dokumenteerimine", "Kanban", "sprint"]
+keywords: ["aastaraamat", "almanahh", "multimeedia", "koolikogukond", "veebilahendus", "dokumentatsioon"]
+related:
+  - "../02-opidisain/projektipohine-ope.md"
+  - "../03-digiloovtoo-juhendamine/dokumenteerimine-digiloovtoos.md"
+  - "../06-github-opikeskkonnana/readme-ja-wiki-kui-dokumentatsioon.md"
+  - "../07-hindamine/meeskonna-tagasiside.md"
+  - "../09-mallid/projektiplaani-mall.md"
+---
+
 # Kooli interaktiivne aastaraamat
 
 ## Lühikirjeldus
