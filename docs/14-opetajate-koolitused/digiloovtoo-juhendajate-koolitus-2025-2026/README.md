@@ -52,6 +52,22 @@ Olulised teemad:
 - 3W refleksioon;
 - lõppesitlus ja pitch.
 
+# Koolitusmoodulid
+
+See kaust koondab digiloovtöö juhendajate koolituse viis moodulit.
+
+## Moodulite loend
+
+1. [`moodul-01-digiloovtoo-kontseptsioon-ja-koht-oppekavas.md`](moodul-01-digiloovtoo-kontseptsioon-ja-koht-oppekavas.md) — digiloovtöö mõiste, õppekava, vormistus ja kliendipõhine lähenemine.
+2. [`moodul-02-digiloovtoo-teemad-platvormid-ja-materjalid.md`](moodul-02-digiloovtoo-teemad-platvormid-ja-materjalid.md) — teemad, transformatiivsed tehnoloogiad, Taiga ja juhendmaterjalid.
+3. [`moodul-03-digiloovtoo-metoodika-ja-prototuupimine.md`](moodul-03-digiloovtoo-metoodika-ja-prototuupimine.md) — disainmõtlemine, persoonad, stsenaariumid ja prototüüpimine.
+4. [`moodul-04-digiloovtoo-protsess-ja-juhendamine.md`](moodul-04-digiloovtoo-protsess-ja-juhendamine.md) — juhendamine, rühmatöö, mentorid ja tagasiside.
+5. [`moodul-05-digiloovtoo-hindamine-ja-voistlusformaadid.md`](moodul-05-digiloovtoo-hindamine-ja-voistlusformaadid.md) — hindamine, kaitsmine, häkatonid ja õpianalüütika.
+
+## Algallikas
+
+[Digiloovtöö juhendajate koolitus — koolitusmoodulid](https://sites.google.com/pae.tln.edu.ee/digiloovt-koolitus-juhendajate/koolitusmoodulid)
+
 ## Seos SLICSE käsiraamatuga
 
 Koolitus toetub SLICSE käsiraamatu järgmistele jaotistele:
